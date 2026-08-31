@@ -20,7 +20,7 @@ micky_planning/
 
 ---
 
-## Pre Requisites
+## Prerequisites
 
 - ROS2 Humble
 - Python 3.10+
